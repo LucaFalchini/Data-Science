@@ -17,7 +17,7 @@ En este curso aprenderás la teoría y consideraciones técnicas para la constru
 
 -Data Acquisition.
 
--Data Wranglin.
+-Data Wrangling.
 
 -Exploratory Data Analysis.
 
